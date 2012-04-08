@@ -62,7 +62,7 @@
     };
     
     // Make the request.
-    return $.ajax(params);
+    return jQuery.ajax(params);
   }
   
 }).call(this);
